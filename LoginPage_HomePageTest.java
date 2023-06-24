@@ -1,3 +1,4 @@
+import java.util.*;
 public class LoginPageTest {
     private static class LoginPage {
         private String username;
